@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toujourser&count_private=true&show_icons=true&theme=radical)](https://github.com/toujourser/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toujourser&layout=compact)](https://github.com/toujourser/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toujourser&count_private=true&show_icons=true&theme=radical)](https://github.com/toujourser/github-readme-stats)
 
 <div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
